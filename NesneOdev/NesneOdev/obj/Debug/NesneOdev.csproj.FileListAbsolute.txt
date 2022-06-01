@@ -1,0 +1,8 @@
+C:\Users\mirca\OneDrive\Masaüstü\NesneOdev\NesneOdev\NesneOdev\obj\Debug\NesneOdev.csproj.AssemblyReference.cache
+C:\Users\mirca\OneDrive\Masaüstü\NesneOdev\NesneOdev\NesneOdev\obj\Debug\NesneOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirca\OneDrive\Masaüstü\NesneOdev\NesneOdev\NesneOdev\obj\Debug\NesneOdev.csproj.CoreCompileInputs.cache
+C:\Users\mirca\OneDrive\Masaüstü\NesneOdev\NesneOdev\NesneOdev\bin\Debug\NesneOdev.exe.config
+C:\Users\mirca\OneDrive\Masaüstü\NesneOdev\NesneOdev\NesneOdev\bin\Debug\NesneOdev.exe
+C:\Users\mirca\OneDrive\Masaüstü\NesneOdev\NesneOdev\NesneOdev\bin\Debug\NesneOdev.pdb
+C:\Users\mirca\OneDrive\Masaüstü\NesneOdev\NesneOdev\NesneOdev\obj\Debug\NesneOdev.exe
+C:\Users\mirca\OneDrive\Masaüstü\NesneOdev\NesneOdev\NesneOdev\obj\Debug\NesneOdev.pdb
